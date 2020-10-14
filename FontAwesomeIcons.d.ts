@@ -38,8 +38,8 @@ declare const SolidIcons: {
   arrowRight: string;
   arrowUp: string;
   arrowsAlt: string;
-  arrowsAltHh: string;
-  arrowsAltVv: string;
+  arrowsAltH: string;
+  arrowsAltV: string;
   assistiveListeningSystems: string;
   asterisk: string;
   at: string;
@@ -281,8 +281,8 @@ declare const SolidIcons: {
   edit: string;
   egg: string;
   eject: string;
-  ellipsisHh: string;
-  ellipsisVv: string;
+  ellipsisH: string;
+  ellipsisV: string;
   envelope: string;
   envelopeOpen: string;
   envelopeOpenText: string;
@@ -428,6 +428,8 @@ declare const SolidIcons: {
   hanukiah: string;
   hardHat: string;
   hashtag: string;
+  hatCowboy: string;
+  hatCowboySide: string;
   hatWizard: string;
   haykal: string;
   hdd: string;
@@ -536,8 +538,8 @@ declare const SolidIcons: {
   mars: string;
   marsDouble: string;
   marsStroke: string;
-  marsStrokeHh: string;
-  marsStrokeVv: string;
+  marsStrokeH: string;
+  marsStrokeV: string;
   mask: string;
   medal: string;
   medkit: string;
@@ -573,6 +575,7 @@ declare const SolidIcons: {
   motorcycle: string;
   mountain: string;
   mousePointer: string;
+  mouse: string;
   mugHot: string;
   music: string;
   networkWired: string;
@@ -637,7 +640,7 @@ declare const SolidIcons: {
   plusSquare: string;
   podcast: string;
   poll: string;
-  pollHh: string;
+  pollH: string;
   poo: string;
   pooStorm: string;
   poop: string;
@@ -665,6 +668,7 @@ declare const SolidIcons: {
   rainbow: string;
   random: string;
   receipt: string;
+  recordVinyl: string;
   recycle: string;
   redo: string;
   redoAlt: string;
@@ -736,7 +740,7 @@ declare const SolidIcons: {
   skullCrossbones: string;
   slash: string;
   sleigh: string;
-  slidersHh: string;
+  slidersH: string;
   smile: string;
   smileBeam: string;
   smileWink: string;
@@ -1161,6 +1165,7 @@ declare const BrandIcons: {
   btc: string;
   buffer: string;
   buromobelexperte: string;
+  buyNLarge: string;
   buysellads: string;
   canadianMapleLeaf: string;
   ccAmazonPay: string;
@@ -1185,6 +1190,7 @@ declare const BrandIcons: {
   confluence: string;
   connectdevelop: string;
   contao: string;
+  cottonBureau: string;
   cpanel: string;
   creativeCommons: string;
   creativeCommonsBy: string;
@@ -1349,9 +1355,10 @@ declare const BrandIcons: {
   markdown: string;
   mastodon: string;
   maxcdn: string;
+  mdb: string;
   medapps: string;
   medium: string;
-  mediumMm: string;
+  mediumM: string;
   medrt: string;
   meetup: string;
   megaport: string;
@@ -1377,6 +1384,7 @@ declare const BrandIcons: {
   openid: string;
   opera: string;
   optinMonster: string;
+  orcid: string;
   osi: string;
   page4: string;
   pagelines: string;
@@ -1394,7 +1402,7 @@ declare const BrandIcons: {
   piedPiperHat: string;
   piedPiperPp: string;
   pinterest: string;
-  pinterestPp: string;
+  pinterestP: string;
   pinterestSquare: string;
   playstation: string;
   productHunt: string;
@@ -1468,6 +1476,7 @@ declare const BrandIcons: {
   superpowers: string;
   supple: string;
   suse: string;
+  swift: string;
   symfony: string;
   teamspeak: string;
   telegram: string;
@@ -1489,6 +1498,7 @@ declare const BrandIcons: {
   uber: string;
   ubuntu: string;
   uikit: string;
+  umbraco: string;
   uniregistry: string;
   untappd: string;
   ups: string;
